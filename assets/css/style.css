@@ -81,5 +81,39 @@ h1{
 
 #profile-header{
     border-bottom: 3px solid grey;
+    margin-bottom: 20px;
 }
 
+.footer {
+    border-top: 4px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+form{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+
+}
+
+#name, #email{
+    padding-right: 60px;
+}
+
+button {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
