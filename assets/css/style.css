@@ -41,3 +41,44 @@ li:first-child{
     padding-top: 24px;
     padding-left: 20px;
 }
+
+.active{
+    padding-right: 50px;
+}
+
+body{
+    background-image: url("https://lh3.googleusercontent.com/bKlDdOFG3ETaSeapUkR4tdRb-ev3UZ7biXrO-bSpNsBmPRkKIZWQqETgAaRI6c-7YvY5rwhN_pKh7GanRLqqzLED4_OOJLT3T7wpDOWj46bdPK6EKQKnAB9LyPKPDtyfRH5VVMen0xJFVfTuvJEbn2FmGtvtX0qGKjXdfJXLXd1XkeLxq_Dxqxm5dlbkS1lqB9je6IUTGke8R9VKbEyr5eXq1PMx79HsBHpeXXIGn2Sj4Zr7CTlykx9joik5fCtGgDEQx595etmPKLu7TgGHXwxWy4qgpvASKLlE_vkVzwZ9xwKMAy0zt1bUF-ZXSbz31UN4AVsqXmC6w6VFyxLNG2SEIdmLIDur4UeTV8lWcFe_MdUNCbW-odL4qIozOOnniN8Xd4Z6cRo1sJvfSFM1I0rEduWTVOQp2kKsF9Xh4C758SebDKiZEqmgVQo2oyxTdo8UHqf_iMvDbzgOdY9VgxROZ1UwYBmciT7REMGuCWkY4njAXiLdOQv77J6eY4aVmrzUUJS6kcz0uYJJs-D5nwai6IKxdlw0NU4Mcp18s0NcjKxw2jJpf2Vg20gmGIMIxXvJltwVbGD0SQHiyYW7LUUBAmZhP0tU6dn3Q9ThBr9KXI5Yov9yXxvHcXS01qdieRcLmZvvrMSXrRIwcIbYuPz5Uy6wF0g=w1024-h768-no");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    color:#4aaaa5;
+}
+
+#aboutme{
+  width: 80%;
+  line-height: 2.0;
+  margin: 0 auto;
+  background:white;
+  margin-top: 10%;
+  padding-top: 20px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-bottom: 48px;
+}
+
+#profile-pic{
+    float: left;
+    overflow: auto;
+    width: 200px;
+    height: 200px;
+    margin-top:20px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+#profile-header{
+    border-bottom: 3px solid grey;
+}
+
